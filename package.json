@@ -1,0 +1,20 @@
+{
+  "name": "auth-server",
+  "version": "1.0.0",
+  "description": "- [Authentication examples](/authentication/)\r     - [Authorization code]( /authentication/authorization_code/)\r     - [Client Credentials](/authentication/client_credentials)\r     - [Implicit Grant](/authentication/implicit_grant/)\r - [Get User Profile example](/get_user_profile/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spotify/web-api-auth-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spotify/web-api-auth-examples/issues"
+  },
+  "homepage": "https://github.com/spotify/web-api-auth-examples#readme"
+}
